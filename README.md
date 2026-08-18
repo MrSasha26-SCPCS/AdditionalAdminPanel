@@ -1,0 +1,2 @@
+# AdditionalAdminPanel
+SCP: CS plugin
