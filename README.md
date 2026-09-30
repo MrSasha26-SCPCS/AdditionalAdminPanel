@@ -1,4 +1,4 @@
-# AdditionalAdminPanel (v1.0)
+# AdditionalAdminPanel (v1.1)
 SCP: CS plugin
 
 Добавляет новую вкладку в АП - "*ADD-LY*". С помощью неё можно:
